@@ -1,1 +1,1 @@
-Aqui estão os datasets utilizados nos projetos de Data Science.
+Datasets utilizados nos projetos de Data Science.
